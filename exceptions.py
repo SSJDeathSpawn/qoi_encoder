@@ -1,0 +1,3 @@
+
+class InvalidChunk(Exception):
+    pass
